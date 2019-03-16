@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "8a5c878d55537cdc34ee662321df5674561616bfd765834b02707ad7d86aa8fd",
+		"module.json": "6a75e3734d1edc9d32197aecb761dbe09ad38efc6fbc1d9a9e4b7c1f3347a371"
+	},
+	"defs": {
+		"S_SYSTEM_MESSAGE": 1
+	}
+}

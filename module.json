@@ -1,0 +1,11 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/no-more-clover-spam/master/"],
+	"name": "no-more-clover-spam",
+	"author": "Foglio",
+	"description": "Removes big green center screen message about Clover Buff",
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName": "no-more-clover-spam",
+		"guiName": "no-more-clover-spam"
+	}
+}
